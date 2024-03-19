@@ -50,6 +50,7 @@ Apache Spark es un motor unificado de analíticas para procesar datos a gran esc
 
 Se configuró a nivel local con un worker escuchando las peticiones de las tareas de Airflow por medio de un script python (app.py).
 
+![Spark](https://github.com/IgnaBascu/Data-pipelines-with-Airflow-Kafka-Spark-y-Python/blob/main/imagenes/5.png)
 ![Spark](https://github.com/IgnaBascu/Data-pipelines-with-Airflow-Kafka-Spark-y-Python/blob/main/imagenes/4.png)
 
 ---
